@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [Icesi Tinder](https://github.com/Dannasofiagarcia/IcesiTinder)  
   
 
-- 🌱 I’m currently learning C++, Python and web development.  
+- 🌱 Learning C++, Python and web development.  
   
 
 - ⚡ Interesting fact: I love the dark techno music 👽  
