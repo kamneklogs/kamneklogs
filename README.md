@@ -12,7 +12,7 @@
 - 🌱 Learning C++, Python and web development.  
   
 
-- ⚡ Interesting fact: I love the dark techno music 👽  
+- ⚡ Interesting fact: I love the underground techno music 👽  
   
 
 <br/>  
