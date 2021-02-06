@@ -19,7 +19,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table align=center><tr><td valign="top" width="33%">
 
 
 
@@ -75,9 +75,9 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=kamneklogs&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamneklogs&hide_border=true&layout=compact" align="left" />  
-
+<div align="center" margin = "10px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamneklogs&hide_border=true&layout=compact" align="center" margin =  />  
+</div>
 <br/>  
 
 
