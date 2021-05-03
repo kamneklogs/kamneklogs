@@ -6,7 +6,7 @@
 ### <div align="center">I'm Camilo Cordoba, Software System Engineering student at ICESI University 👨‍💻 I ♥️ coding  🚀</div>  
   
 
-- 🔭 I’m currently working on [Icesi Tinder](https://github.com/Dannasofiagarcia/IcesiTinder)  
+- 🔭 I’m currently working on [Suicide Overview](https://github.com/kamneklogs/suicide-overview)  
   
 
 - 🌱 Learning C++, Python and web development.  
