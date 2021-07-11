@@ -4,7 +4,7 @@
 
 ### <div align="center">I'm Camilo Cordoba, Software System Engineering student at ICESI University 👨‍💻 I ♥️ coding 🚀</div>
 
-- 🔭 I’m currently working on [Suicide Overview](https://github.com/kamneklogs/suicide-overview)
+- 🔭 I’m currently working on my holydays :)
 
 - 🌱 Learning C++, Python and web development.
 
