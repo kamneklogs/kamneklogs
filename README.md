@@ -1,8 +1,8 @@
-<div align="left">
+<div align="center">
 <img src="assets/images/hello.gif" align="center" style="width: 100%" />
 </div>
 
-### <div align="center">I'm Camilo Cordoba, Software System Engineering student at ICESI University 👨‍💻 I ♥️ coding 🚀</div>
+### <div align="center">I'm Camilo Cordoba, Software System Engineering student at Icesi University 👨‍💻 I ♥️ coding 🚀</div>
 
 - 🔭 I’m currently working on my holydays :)
 
@@ -62,6 +62,7 @@
 
 <br/>
 
+
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
@@ -74,9 +75,9 @@
 
 </td></tr></table>  
 
-## ‎ ‏‏‎‎ ‏‏‎‎ ‏‏‎‎ ‏‏‎‎ ‏‏‎‎ ‏‏‎‎ ‏‏‎‎ ‏‏‎‎ ‏‏‎‎ ‏‏‎‎ ‏‏‎
-
 <br/>
+
+
 
 ## My music
 
