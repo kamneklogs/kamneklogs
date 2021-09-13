@@ -2,7 +2,7 @@
 <img src="assets/images/hello.gif" align="center" style="width: 100%" />
 </div>
 
-### <div align="center">I'm Camilo Cordoba, Software System Engineering student at Icesi University 👨‍💻 I ♥️ coding 🚀</div>
+### <div align="center">I'm Camilo Cordoba, Software systems engineering student at Icesi University 👨‍💻 I ♥️ coding 🚀</div>
 
 - 🔭 I’m currently working on my holydays :)
 
