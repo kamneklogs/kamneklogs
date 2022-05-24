@@ -2,11 +2,11 @@
 <img src="assets/images/hello.gif" align="center" style="width: 100%" />
 </div>
 
-### <div align="center">I'm Camilo Cordoba, Software systems engineering student at Icesi University 👨‍💻 I ♥️ coding 🚀</div>
+### <div align="center">I'm Camilo, Software systems engineering student at Icesi University 👨‍💻 I ♥️ coding 🚀</div>
 
-- 🔭 I’m currently working on my holydays :)
+- 🔭 Open to imagine the future :)
 
-- 🌱 Learning C++, Python and web development.
+- 🌱 Learning C++, Golang and distributed applications development.
 
 - ⚡ Interesting fact: I love the underground techno music 👽
 
