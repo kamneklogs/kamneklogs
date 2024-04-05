@@ -2,7 +2,7 @@
 <img src="assets/images/hello.gif" align="center" style="width: 100%" />
 </div>
 
-### <div align="center">I'm Camilo, Software systems engineering student at Icesi University 👨‍💻 I ♥️ coding 🚀</div>
+### <div align="center">I'm Camilo, Software Engineer 👨‍💻 I ♥️ coding 🚀</div>
 
 - 🔭 Open to imagine the future :)
 
